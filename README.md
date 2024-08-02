@@ -7,25 +7,15 @@
 
 SNo| Common NLP Tasks| Approaches to NLP| Challenge in NLP|
 |-|-|-|-|
-|-|- sentiment analysis|
-|-|- conversational agents|
-|-|- knowledge graph and QA systems|
-|-|- summarization|
-|-|- topic modelling|
+|-|- sentiment analysis| Heuristic methods|
+|-|- conversational agents|machine learning methods|
+|-|- knowledge graph and QA systems| deep learning methods|
+|-|- summarization|deep learning algorithms retain data in sequential order|
+|-|- topic modelling|auto feature selection|
 |-|- typing behaviour|
 |-|- text parsing into noun verb|
 |-|- speech to text|
 
-Basics of NLP
-Common NLP Tasks
-- sentiment analysis
-- conversational agents
-- knowledge graph and QA systems
-- summarization
-- topic modelling
-- typing behaviour
-- text parsing into noun verb
-- speech to text
 
 Approaches to NLP
 - Heuristic methods - 
