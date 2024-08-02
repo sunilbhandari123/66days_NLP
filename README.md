@@ -29,4 +29,4 @@ Text Preprocessing with Spacy : Cleaning and Transforming raw text data into a f
 
 SNo|Notebook |
 |-|-|
-|1|[Untitled.ipynb]
+|1|[github.com/sunilbhandari123/66days_NLP/blob/main/Untitled.ipynb]
