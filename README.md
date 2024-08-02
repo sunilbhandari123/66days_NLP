@@ -2,12 +2,15 @@
 # This will be my journey of learning NLP.
 
 # Roadmap
+
+
 SNo|Blog 1 |Blog 2|
 |-|-|-|
 |1|[https://blog.futuresmart.ai/nlp-roadmap-2023-step-by-step-guide]|[https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff]
 
   
 # Basics of NLP
+
 SNo| Common NLP Tasks| Approaches to NLP| Challenge in NLP|
 |-|-|-|-|
 |1| Sentiment analysis|Heuristic methods|More than one meaning of a sentence|
@@ -22,6 +25,8 @@ SNo| Common NLP Tasks| Approaches to NLP| Challenge in NLP|
 
 # Day 1 
 
-# Text Preprocessing with Spacy : Cleaning and Transforming raw text data into a format that can be easily analyzed by machine learning algorithms.Some common task includes Tokenization,Lemmatization,Removing Punctuations.where i learned about the basics of spacy ,sentence boundary detections,token attributes,Part of speech tagging,name Entinty Reconition,word vector and spacy and spacy piplines.
+Text Preprocessing with Spacy : Cleaning and Transforming raw text data into a format that can be easily analyzed by machine learning algorithms.Some common task includes Tokenization,Lemmatization,Removing Punctuations.where i learned about the basics of spacy ,sentence boundary detections,token attributes,Part of speech tagging,name Entinty Reconition,word vector and spacy and spacy piplines.
 
-
+SNo|Notebook |
+|-|-|
+|1|
