@@ -8,14 +8,14 @@
 SNo|Topic|
 |-|-|
 1| Common NLP Tasks |
-- sentiment analysis
-- conversational agents
-- knowledge graph and QA systems
-- summarization
-- topic modelling
-- typing behaviour
-- text parsing into noun verb
-- speech to text
+|-|- sentiment analysis|
+|-|- conversational agents|
+|-|- knowledge graph and QA systems|
+|-|- summarization|
+|-|- topic modelling|
+|-|- typing behaviour|
+|-|- text parsing into noun verb|
+|-|- speech to text|
 
 Basics of NLP
 Common NLP Tasks
