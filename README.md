@@ -6,7 +6,7 @@
   # Blog 2: https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff
 
 SNo| Common NLP Tasks| Approaches to NLP| Challenge in NLP|
-|-|-||-||-|
+|-|-|-|-|
 |-|- sentiment analysis|
 |-|- conversational agents|
 |-|- knowledge graph and QA systems|
