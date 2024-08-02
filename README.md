@@ -7,14 +7,14 @@
 
 SNo| Common NLP Tasks| Approaches to NLP| Challenge in NLP|
 |-|-|-|-|
-|-|- sentiment analysis| Heuristic methods|more than one meaning of a sentence|
-|-|- conversational agents|machine learning methods|contextual words|
-|-|- knowledge graph and QA systems| deep learning methods|colloquialisms, slang and idioms|
-|-|- summarization|deep learning algorithms retain data in sequential order|tone diff (irony, sarcasm)|
-|-|- topic modelling|auto feature selection|spelling errors|
-|-|- typing behaviour|creativity in poems, dialogue and script|
-|-|- text parsing into noun verb||diversity of languages|
-|-|- speech to text|
+|1| sentiment analysis| Heuristic methods|more than one meaning of a sentence|
+|2| conversational agents|machine learning methods|contextual words|
+|3| knowledge graph and QA systems| deep learning methods|colloquialisms, slang and idioms|
+|4| summarization|deep learning algorithms retain data in sequential order|tone diff (irony, sarcasm)|
+|5| topic modelling|auto feature selection|spelling errors|
+|6| typing behaviour|creativity in poems, dialogue and script|diversity of languages|
+|7| text parsing into noun verb|
+|8| speech to text|
 
 
 Challenge in NLP
