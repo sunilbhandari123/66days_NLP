@@ -56,3 +56,11 @@ Text Preprocessing with Spacy : I learned how to use Regex in spacy to extract m
 SNo|Notebook |
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Multiword_token_with_Regex.ipynb]
+
+# Day 5
+
+Text Preprocessing with Spacy : I learned and did some basic text preprocessing in tasks such as lowercasing,removing html tags,removing urls from the text,removing punctutations form the text,chat word/slang word treatment,spelling correction in the text below is the notebook for the same.
+
+SNo|Notebook |
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/basic%20text%20preprocessing.ipynb]
