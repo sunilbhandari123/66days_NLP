@@ -74,4 +74,4 @@ Whereas TFIDF is calculated by multiplying the TF=no of repetation words in sent
 
 SNo|Notebook |
 |-|-|
-|1|[]
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Bag%20of%20words%20and%20TF-IDF.ipynb]
