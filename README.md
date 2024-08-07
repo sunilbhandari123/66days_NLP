@@ -67,7 +67,11 @@ SNo|Notebook |
 
 # Day 6
 
-Text Representation  : Today i learned about text representation with label encoding,One hot encoding,Bags of words and Term frequency inverse document frequency(tfidf).label encoding,One hot encoding are not often used in NLP because it doesnot give the silimar representation of the similar words,very high curse of dimensiility,OOV(out of voculabary problem etc.Bags of words where is better than label encoding,One hot encoding because it looks for sentences rather than words and convert it to the vector form yet it have some disadvantages apart from advantages like sparse representation,high curse of dimensiility,Doesnot capture the meaning of the word properly.Whereas
+Text Representation  :
+Today i learned about text representation with label encoding,One hot encoding,Bags of words and Term frequency inverse document frequency(tfidf).label encoding,One hot encoding are not often used in NLP because it doesnot give the silimar representation of the similar words,very high curse of dimensiility,OOV(out of voculabary problem etc.Bags of words where is better than label encoding,One hot encoding because it looks for sentences rather than words and convert it to the vector form yet it have some disadvantages apart from advantages like sparse representation,high curse of dimensiility,Doesnot capture the meaning of the word properly.
+
+Whereas TFIDF is calculated by multiplying the TF=no of repetation words in sentences / no of words in sentences) and IDF=log base e(no of sentences/no of sentences contaning the words) and there fore it also contains the value other than 0 and 1.Its advantages are it is simples and intuatuive,fixed sized-I/p : vocab size,word importance is captured in this there are some disadvantages as well ie sparsity exits,OOV (out of voculabary problem ).
+
 SNo|Notebook |
 |-|-|
-|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/basic%20text%20preprocessing.ipynb]
+|1|[]
