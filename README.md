@@ -79,9 +79,33 @@ SNo|Notebook |
 # Day 7
 
 Text Representation  :
+
 Word2Vec:
 Word2vec is a technique in natural language processing for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus.
 
+Here the vector is made for the sentences base on the cosine similaruty between the feature representation and vocabulary.
+Two different model architectures that can be used by Word2Vec to create the word embeddings are the Continuous Bag of Words (CBOW) model & the Skip-Gram model.
+
+The CBOW architecture comprises a deep learning classification model in which we take in context words as input, X, and try to predict our target word, Y.
+
+For example, if we consider the sentence – “Word2Vec has a deep learning model working in the backend.”, there can be pairs of context words and target (center) words. If we consider a context window size of 2, we will have pairs like ([deep, model], learning), ([model, in], working), ([a, learning), deep) etc. The deep learning model would try to predict these target words based on the context words.
+
+The following steps describe how the model works:
+The context words are first passed as an input to an embedding layer (initialized with some random weights) as shown in the Figure below.
+The word embeddings are then passed to a lambda layer where we average out the word embeddings.
+We then pass these embeddings to a dense SoftMax layer that predicts our target word. We match this with our target word and compute the loss and then we perform backpropagation with each epoch to update the embedding layer in the process.
+We can extract out the embeddings of the needed words from our embedding layer, once the training is completed.
+
+In skipgram our input and output will be exchanged as of CBOW
+
+When to use :
+ CBOW: use when working with small datasets
+ Skipgram: use when working with huge datasets
+
+Advantages:
+ Dense matrix
+ Semantic info is captured
+ OOV problem is solved
 
 
 SNo|Notebook |
