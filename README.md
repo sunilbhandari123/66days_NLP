@@ -75,3 +75,16 @@ Whereas TFIDF is calculated by multiplying the TF=no of repetation words in sent
 SNo|Notebook |
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Bag%20of%20words%20and%20TF-IDF.ipynb]
+
+# Day 7
+
+Text Representation  :
+Word2Vec:
+Word2vec is a technique in natural language processing for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus.
+
+
+
+SNo|Notebook |
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Bag%20of%20words%20and%20TF-IDF.ipynb]
+
