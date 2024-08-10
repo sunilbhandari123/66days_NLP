@@ -112,3 +112,18 @@ SNo|Notebook |
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Word2vec.ipynb]
 
+
+# Day 8 
+
+Deep Learning:
+I covered the basic of NLP Moving for I will need the core understanding of the deep learning to understand the concept of transformers so from today i have started learning the deeplearning and learned about perceptron.Perceptron divides our data into two region  therefore it is known as binary classification and it works only in linear datasets./Sort of linear datasets.
+
+I learned about perceptron technique and the main problem with perceptron technique is that we cannot quantify our result ie we cannot sat that how good is that line performing.And there is the problem of convergence therfore I ended of learning the perceptron loss function. Its indepth mathmetical intuatioins.
+
+SNo| Loss functions| Activation function| Output|
+|-|-|-|-|
+|1| Hingloss|step|Perceptron|
+|2| Log loss Binary cross echo|sigmoid|Logistic Regression(Binary calssification|
+|3| Categorical cross entropy|softmax|softmax regression/multiclass classification but output is in probability|
+|4| MSE|linear(No activation function)|Linear regression and output is in number|
+
