@@ -127,3 +127,12 @@ SNo| Loss functions| Activation function| Output|
 |3| Categorical cross entropy|softmax|softmax regression/multiclass classification but output is in probability|
 |4| MSE|linear(No activation function)|Linear regression and output is in number|
 
+SNo|Notebook |
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Perceptron%20Loss%20Function.ipynb]
+
+# Resource 
+Campux 100 days of DeepLearning
+
+
+
