@@ -134,3 +134,24 @@ SNo|Notebook |
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Perceptron%20Loss%20Function.ipynb]
 
+
+# Day 9
+
+Deep Learning:
+Today i learned about the multilayer perceptron Notation ie how to donate weight bais and output in the multilayer perceptron ,indepth intuation about the multilayer perceptron.
+
+For solving a non linear data we take two perceptron with different decision boundaries and then superimpose
+
+SNo| Loss functions| Activation function| Output|
+|-|-|-|-|
+|1| Hingloss|step|Perceptron|
+|2| Log loss Binary cross echo|sigmoid|Logistic Regression(Binary calssification|
+|3| Categorical cross entropy|softmax|softmax regression/multiclass classification but output is in probability|
+|4| MSE|linear(No activation function)|Linear regression and output is in number|
+
+# Resource 
+Campux 100 days of DeepLearning
+
+SNo|Notebook |
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Perceptron%20Loss%20Function.ipynb]
