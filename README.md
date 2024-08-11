@@ -140,18 +140,29 @@ SNo|Notebook |
 Deep Learning:
 Today i learned about the multilayer perceptron Notation ie how to donate weight bais and output in the multilayer perceptron ,indepth intuation about the multilayer perceptron.
 
-For solving a non linear data we take two perceptron with different decision boundaries and then superimpose
+ General overview:
+For solving a non linear data we take two perceptron with different decision boundaries and then superimpose the output of the perceptrons and lastely doing smoothing we will get the requried classification 
 
-SNo| Loss functions| Activation function| Output|
-|-|-|-|-|
-|1| Hingloss|step|Perceptron|
-|2| Log loss Binary cross echo|sigmoid|Logistic Regression(Binary calssification|
-|3| Categorical cross entropy|softmax|softmax regression/multiclass classification but output is in probability|
-|4| MSE|linear(No activation function)|Linear regression and output is in number|
+Maths:
+Calulating the probabilit for the particular element(student) in the two perceptrons and then Adding them and putting them in the sigmoid function to get the new probability.
+
+# How to change Neural Network Architecture
+
+1. Increasing the node in the hidden layers
+2. Adding nodes to the input
+3. Adding nodes to the output node
+4. Increase hidden layer
+
+I also learned about the fordward propragation and how it is calculated mathmetically in the given neural network.
+
+And lastely i used ANN in tenserflow and keras to perfrom CUSTOMER CHURN PREDICTION,HANDWRITTEN CLASSIFICATION,GRADITUTE ADMISSION PREDICTIONS.My aim was not to get good accuracy rather it was how to use ANN for deling with different types of problem as later i am going to learn backpropagation it might be helpful.
+
 
 # Resource 
 Campux 100 days of DeepLearning
 
 SNo|Notebook |
 |-|-|
-|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Perceptron%20Loss%20Function.ipynb]
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/getting-started-with-ann.ipynb]
+|2|[https://github.com/sunilbhandari123/66days_NLP/blob/main/MNIST_classification_using_ANN.ipynb]
+|3|[https://github.com/sunilbhandari123/66days_NLP/blob/main/gradituate-admission-prediction-using-ann.ipynb]
