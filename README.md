@@ -166,3 +166,25 @@ SNo|Notebook |
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/getting-started-with-ann.ipynb]
 |2|[https://github.com/sunilbhandari123/66days_NLP/blob/main/MNIST_classification_using_ANN.ipynb]
 |3|[https://github.com/sunilbhandari123/66days_NLP/blob/main/gradituate-admission-prediction-using-ann.ipynb]
+
+
+# Day 10
+
+Deep Learning: 
+Loss Function Today i learned/revised the concept of the loss function before moving to backpropragation.
+
+Loss Functions is a method of evaluating how well your algorithm is modeling your datasets.
+If the loss function value is high then our model is performing poor
+If the loss function value is low then our model is performing comparatively well.
+
+# Why loss function is important?
+Loss function measures and tells  how well our model is performing and what is our problem in the algorithm so we will get the great decision.Loss function is the eye of  machine learning algorithm.
+
+# Lost function vs Cost function?
+loss function is calculated in Single Training example
+cost function is calculated in batch of training example.
+
+In the way i learned about Mean Squared error,mean absolute error, huber loss,binary cross entropy,categorical cross entropy, sparse categorical entropy its use case ,which activation function to use ,when to use,its formula ,advantages and disadvantages any many more.
+
+# Resource 
+Campux 100 days of DeepLearning
