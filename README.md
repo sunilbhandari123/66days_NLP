@@ -206,4 +206,7 @@ Gradient descent
 W(new)=W(old)-learning_rate*dl/dW(old)
 B(new)=B(old)-learning_rate*dl/dB(old)
 
+For updating the output from the the fordward propragation  we need tp update the hirarchy . and should use above formula to update it in which second term is derivative of loss with the respect to the weight.
+
+We should calculate the partial derivative of the loss function with the respect to all the trainable parameters.
 
