@@ -188,3 +188,22 @@ In the way i learned about Mean Squared error,mean absolute error, huber loss,bi
 
 # Resource 
 Campux 100 days of DeepLearning
+
+
+# Day 11
+
+Deep Learning: BackPropagation:
+Backpropagation is an  algorithm used to train neural network.
+
+For a given data it will find the optimal values of weights and bais in which our neural network will give us the good results.
+
+1. Initilize the weight and bais (w,b)
+2. Select a point (rows)
+3. Predict output through fordward propagation (Dot Product)
+4. Update weights and bais using Gradient Descent.
+
+Gradient descent 
+W(new)=W(old)-learning_rate*dl/dW(old)
+B(new)=B(old)-learning_rate*dl/dB(old)
+
+
