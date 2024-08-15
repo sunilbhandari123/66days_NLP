@@ -210,3 +210,16 @@ For updating the output from the the fordward propragation  we need tp update th
 
 We should calculate the partial derivative of the loss function with the respect to all the trainable parameters.
 
+
+# Day 12
+
+Deep Learning: BackPropagation:
+Today i learned how the backpropragation works how the drevatives is done to all the trainable parameters and why is it important to all the trainable parameters in the neural network and how to impelement the backpropagation by writing own code ,concept of loss function,concept of gradient,Derivative vs Gradient ,concept of derivative ,concept of minima,backpropagation intuation and convergence.
+
+# Resource 
+Campux 100 days of DeepLearning
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Backpropragation.ipynb]
+
