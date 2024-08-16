@@ -223,3 +223,41 @@ SNo|Notebook|
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Backpropragation.ipynb]
 
+
+# Day 13
+
+Deep Learning: 
+Memozation:
+
+Today i learned about the multilayered percepton Memoization .Memozation is an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the catched results when the same input occurs again.
+
+Backpropagation = Chain Rule + Memoization
+
+Gradient Descent in Neural Network
+
+1. Batch:
+   -We will take the entire dataset and update the value of weight and bais.
+   -Faster
+   -Total update of weight and bais is equal to the number of epochs
+   
+2. Stochastic
+   -We will taje the single row and update the value of weight and bais
+   -Total number of updates of rows and columns are is the multiple of (number of epochs * number of rows)
+   -Frequency of weight update is higher than that of the Batch Gradient Descent
+
+  
+3. MiniBatch
+   - Here we will divide the total number of rows in the batches
+   - Then we will update the weights and bais for the one batchs.
+
+Which is faster in term of speed and which converges faster given same number of epochs?
+= Given same number of epoches the Batch Gradient Descent is more faster.
+= Stochastic Gradient Descent convetges fast due to more number of updates.
+
+Advantage of Stochastic GD is that it helps to move out of local minima.
+Disadvantages of Stochastic GD is that it doesnot provides the exact solution it provides the approximate solution.
+
+
+# Resource 
+Campux 100 days of DeepLearning
+
