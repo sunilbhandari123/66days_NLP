@@ -227,11 +227,12 @@ SNo|Notebook|
 # Day 13
 
 Deep Learning: 
-Memozation:
+Memozation and its important in backpropagation:
 
 Today i learned about the multilayered percepton Memoization .Memozation is an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the catched results when the same input occurs again.
 
 Backpropagation = Chain Rule + Memoization
+
 
 Gradient Descent in Neural Network
 
@@ -260,4 +261,8 @@ Disadvantages of Stochastic GD is that it doesnot provides the exact solution it
 
 # Resource 
 Campux 100 days of DeepLearning
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/MLP_Memozation.ipynb]
 
