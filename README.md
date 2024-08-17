@@ -266,3 +266,42 @@ SNo|Notebook|
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/MLP_Memozation.ipynb]
 
+
+# Day 14
+
+Deep Learning:
+Vanishing Gradient Descent Problem:
+
+Vanishing Gradient Descent problem is encountred when traning Artifical Neural Networks with gradient based learning method( Gradient Descent) and backpropagation.In such method during each iteration of traning each of the neural network weight recived an update proportional to the partial derivatives of the error function with respect to the current function with respect to the current weight.The probel is that in some case the gradient descent will be vanishgly small effectively preventing the weight from changing its value.
+
+In worst case this may completely stop the neural network from futher traning.
+
+
+Arises in:
+Deep Neural Network
+Sigmoid/Tanh Activation
+
+
+How to reconize it?
+1. Focous on loss after each epoch there will be no change in loss
+2. plot weight graph
+
+How to handel Vanishing Gradient Descent Problem?
+1. Reduce Model Complexity
+2. Using RelU activation function
+3. Proper weight initilization
+4. Batch Normalization
+5. Using Residual Network
+
+
+# Resource 
+Campux 100 days of DeepLearning
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Vanishing_Gradient_Descent_Problem.ipynb]
+
+
+   
+   
+
