@@ -302,6 +302,40 @@ SNo|Notebook|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Vanishing_Gradient_Descent_Problem.ipynb]
 
 
+# Day 15
+
+Deep Learning:
+How to improve performance of Neural Network:
+
+1.Fine Tuning Neural Network:
+ 1. Number of hidden layers:
+      We can increase our hidden layers until overfitting occurs.Rather than taking one hidden layer with more neurons we can take more hidden layers with less neuron.
+    
+ 2. Number of neurons per layers
+      Input layer neuron is equal to the number of feature and output layer is equal to the type of problem we are solving and  for hidden layer there is no specific rule         but it should be more than enough (sufficent).
+    
+ 3. Learning Rate
+ 4. Optimizer
+ 5. Batch-size
+     There are two approches and it is smaller batch size (8 to 32) and it advantage is generalization will be better and its disadvantage is that it will be slow. Another       approch is large batch size (8192) its advantage is it is faster and its disadvantage is that its generalization will be slow.
+    
+     We should use large batch size effictively using warning of learning rate ie learning rate scheduler.
+    
+ 6. Activation function
+
+    
+ 7. Epochs
+        we should use more epoch with early stopping .Early stopping is a mechanism which is intelligent enough to understand when to stop..
+
+2. By solving problems
+   1. Vanishing / Exploding Gradient
+   2. Not enough data
+   3. Slow traning
+   4. Overfitting
+
+
+
+
    
    
 
