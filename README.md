@@ -335,7 +335,43 @@ How to improve performance of Neural Network:
 
 
 
+# Day 16 
+Deep Learning:
 
-   
-   
+Improving Neural Network Performance
+
+1. Vanishing Gradient
+   Activation Functions
+   Weight Initalization
+
+2.Overfitting
+   Reduce complexity /Increase data
+   Dropout layer
+   Regularization
+   Early stopping
+
+3.Normalization
+   Normalizing Input
+   Batch Normalization
+   Normilizing Activations
+
+4.Gradient checking and clipping
+5.Optimizers
+   Momentum
+   Adagrad
+   RMS prep
+
+6.Learning Rate scheduling
+7.Hyperparameter Tuning
+   No of hidden layers
+   Nodes perlayer or Batch_size
+
+Today i learned about the early stopping in Neural Network and why is it important in neural network ,Normalization in Neural Network when the data is not normalized then the loss function will be not symmetrical and when the data is normalized then the loss function will be symmetrical and the solution for it is  Standarization and Normalization.Normalization is used when we know the maximum and the minimum values and standarization is used when we dont know the maximum and the minimum values.Lastely i learned about the dropout layers in the deeplearning and it is used in traning time not in the testing time w=w*(1-p) where p is the dropout layer.
+
+# Resource 
+Campux 100 days of DeepLearning
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Early_Stopping_in_Neural_Network.ipynb]
 
