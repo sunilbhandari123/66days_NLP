@@ -368,6 +368,11 @@ Improving Neural Network Performance
 
 Today i learned about the early stopping in Neural Network and why is it important in neural network ,Normalization in Neural Network when the data is not normalized then the loss function will be not symmetrical and when the data is normalized then the loss function will be symmetrical and the solution for it is  Standarization and Normalization.Normalization is used when we know the maximum and the minimum values and standarization is used when we dont know the maximum and the minimum values.Lastely i learned about the dropout layers in the deeplearning and it is used in traning time not in the testing time w=w*(1-p) where p is the dropout layer.
 
+
+Disadvantages of Dropout Layers.
+1. Convergence will be delayed.
+2. Loss function will varies much which causes problem while debugging.
+
 # Resource 
 Campux 100 days of DeepLearning
 
