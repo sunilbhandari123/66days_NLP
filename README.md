@@ -380,3 +380,66 @@ SNo|Notebook|
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Early_Stopping_in_Neural_Network.ipynb]
 
+
+# Day 17
+
+Deep Learning:
+Regularization in DeepLearning:
+1.When to use regularization?
+  when the is overfitting we have to use regularization term.
+  
+In the cost function we add the penalty term which helps our weight to move toward zero.There are l1,l2 and l1+l2 regularization in deeplearning and we use l2 regularization most of the time because when we use l1 regularization we will get sparse matrix where as while using l2 regularization we will not get sparse matrix above is the implementation of the regularization using tenserflow and keras.
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Regularization_in_DeepLearning.ipynb]
+
+Activation Function:
+Each neuron forms a weighted sum of its input and passes the resulting scalar values through a function or transfered function if a neuron inputs than the output or activation of a neurons.
+
+Ideal Activation function:
+1. Non-linear
+2. It should be differentiable
+3. Computationally inexpensive
+4. It should be zero centered
+5. It should be non saturating
+  
+
+1. Sigmoid Function
+   
+Advantages:
+1. Non linear
+2. Differentiable
+
+Disadvantage
+1. Saturating function ( Vanishing gradient descent problem)
+2. Non zero centered (Traning get slow)
+3. Computationally inexpensive due to exponentially
+
+
+2. TahX Activation Function
+Advantage:
+1. Non-Linear
+2. Differentiable
+3. Zero centered
+
+Disadvantage
+1. Saturating function
+2. computationally expensive( Vanishing gradient descent problem)
+
+3. Relu Activation Function
+Advantages:
+1. Non linear
+2. Non Saturated in the +ve Region
+3. computationally inexpensive
+4. converges faster
+
+Disadvantages
+1. Not compeletly differentiable.
+2. Non Zero centered.
+
+
+   
+
+
+
