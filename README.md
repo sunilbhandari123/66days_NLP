@@ -445,6 +445,7 @@ Disadvantages
 Deep Learning: Today i learned about Weight Initilization Techniques
 Weight Initilization Techniques:
 
+# what we should not do
 Case1:
 Zero Initilization:
 1. when the activation function is relu and the initial weights are zero than no training will take place.
@@ -468,4 +469,17 @@ Sigmoid: It is same in case of sigmoid.
 Relu: According to the value the output will be big so gradient will be big and when we go to change weight there will be big change in weight and we                              will get unstable gradient in the weight.
 
 
+# what should do when we are initilizing the weights.
+
+1.Xavier Initilization(Normal):
+formula is root(1/fan_in) where fan_in is number of inputs comming to the nodes.And it works only with the activation function tanh and sigmoid.
+
+2.Xavier Initilization(Uniform):
+formula is [-limit,limit] and limit=root(6/fan_in+fan_out)
+
+3.He Initilization (Normal):
+formula is root(2/fan_in) and it works only in the case of relu.
+
+4.He Initilization (Uniform):
+[-limit,limit] and limit=root(6/fan_in)
 
