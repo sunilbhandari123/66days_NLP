@@ -439,7 +439,33 @@ Disadvantages
 2. Non Zero centered.
 
 
-   
+
+# Day 18
+
+Deep Learning: Today i learned about Weight Initilization Techniques
+Weight Initilization Techniques:
+
+Case1:
+Zero Initilization:
+1. when the activation function is relu and the initial weights are zero than no training will take place.
+2. when the activation function is tanh  and the initial weights are zero than no training will take place.
+3. when the activation function is sigmoid and the inital weights are zero then the hidden layers will acts as a single node irrespective of the node present in the hidden layers and hence cannot capture the non linearity of the data because it acts as a perceptron.
+
+Case2:
+Non Zero Constant Values :
+Performs same as sigmoid with initial weight and bais as zero.
+
+
+Case3 
+Random Initialization:
+1. Small values:  Tanh=when we initilized our inital weight number than vanishing garident problem will arises.
+           Sigmoid=Vanishing Gradient Descent Problem.(In small)
+           Relu=Traning will be very very slow.
+    
+2. Large Values:
+Tanh: when we initilize our initial weight with large values then there will be saturation which causes slow traning or in worst case scinero vanishing                             gradient descent problem will arises.
+Sigmoid: It is same in case of sigmoid.
+Relu: According to the value the output will be big so gradient will be big and when we go to change weight there will be big change in weight and we                              will get unstable gradient in the weight.
 
 
 
