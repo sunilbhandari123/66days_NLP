@@ -483,3 +483,10 @@ formula is root(2/fan_in) and it works only in the case of relu.
 4.He Initilization (Uniform):
 [-limit,limit] and limit=root(6/fan_in)
 
+
+# Day 19
+Deep Learning:
+Today i learned about the batch normalization.what is batch normalization,why batch normilazation,How it works,scale and shift,why scale and shift,batch normalization during testing,its advantages and its keras implementation.
+
+And i also learned about the need of others optimizer rather than threes one,exponentially weighted moving average, stochastici gradient descent eith momentum , its advantages and disadvantages.
+
