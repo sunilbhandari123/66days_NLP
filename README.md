@@ -490,3 +490,6 @@ Today i learned about the batch normalization.what is batch normalization,why ba
 
 And i also learned about the need of others optimizer rather than threes one,exponentially weighted moving average, stochastici gradient descent eith momentum , its advantages and disadvantages.
 
+# Day 20
+Deep Learning:
+Today i learned about the Nesterov accelerated gradient (NAG) In NAG we calculate the velocity first and then we calculate the gradient at that point which makes RAG better than momentum where as sometime it might get local minima problem.Similarly i learned about the adagrad ie adapative gradient where learning rate is not fixed and keep changing it its main disadvantage is that it can go close to the local minima but cannot converge to the global minima.Similarly i learned about the Rms Prop ie root mean squared prop which is the improved version of the adagrad and it has almost no disadvantages
