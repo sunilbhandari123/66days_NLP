@@ -493,3 +493,15 @@ And i also learned about the need of others optimizer rather than threes one,exp
 # Day 20
 Deep Learning:
 Today i learned about the Nesterov accelerated gradient (NAG) In NAG we calculate the velocity first and then we calculate the gradient at that point which makes RAG better than momentum where as sometime it might get local minima problem.Similarly i learned about the adagrad ie adapative gradient where learning rate is not fixed and keep changing it its main disadvantage is that it can go close to the local minima but cannot converge to the global minima.Similarly i learned about the Rms Prop ie root mean squared prop which is the improved version of the adagrad and it has almost no disadvantages.lastly i learned about the adam ie adaptive moment estimation which combines the momentum and adgrad with bias correction.In most cases Adam performs well so we should start with adam and move to the others if not satisfied.
+
+# Day 21
+Deep Learning:
+Today i learned about the hyperparamater tunning in the deeplearning using kerastuner firstly i learned how to select appropriate optimizer secondly i learned how to select appropriate neurons ,i learned how to select the apporopriate hidden layers and lastly i learned how to use all of these together.By this i finished the ANN now i will be learning CNN.Notebook for hyperparameter tunning is below:
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Keras_Tuner.ipynb]
+
+# Resource 
+Campux 100 days of DeepLearning
+
