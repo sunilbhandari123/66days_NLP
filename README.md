@@ -505,11 +505,24 @@ SNo|Notebook|
 # Resource 
 Campux 100 days of DeepLearning
 
-# Day 22(mid-sem)
+# Day 22
 Deep Learning:
 CNN:
 Convulation Neural Network also known as CNN are the special kind of neural network for processing data that has grid technoloogy like timeseries data in 1D or images in 2D.I learned the basics of CNN and its basic intutionns and its field of application and i also learned about the history about the Convulation Neural Network ie CNN vs Visual Cortex.
 
 # Resource 
 Campux 100 days of DeepLearning
+
+
+# Day 23
+Deep Learning:
+CNN:
+Today i learned about the padding in Convulation Neural Network and why padding is important in CNN ,Stride why stride comes into the picture and how to inplement it in the keras i also learned about the pooling layer in the CNN how it overcomes the problem of the convulation ie memory issue and the Translation variable issue,types of pooling and its advantages  and the disadvantages also implemented it with keras .
+
+# Resource 
+Campux 100 days of DeepLearning
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Pooling.ipynb]
 
