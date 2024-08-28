@@ -526,3 +526,16 @@ SNo|Notebook|
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Pooling.ipynb]
 
+
+# Day 24
+Deep Learning:
+CNN:
+Today i learned about the architecture of Convulation Neural Network also  learned about the LeNeT-5 Architecture and implemented it in keras,I also learned about the similarities between the ANN and CNN that is basically the neuron of the hidden layer in ANN and the filters in the CNN  are kind of same and also explored about the differences between the ANN and CNN.
+
+# Resource 
+Campux 100 days of DeepLearning
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/LEnet_5.ipynb]
+
