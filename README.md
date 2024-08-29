@@ -539,3 +539,14 @@ SNo|Notebook|
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/LEnet_5.ipynb]
 
+
+# Day 25(mid-sem)
+Deep Learning:
+CNN:
+Today i learned about the backpropagation in Convolution Neural Network where i understand the logical flow and divided the flow into the two parts ie cnn part and ann part and learned the back propagation on the ANN part.I dont want to break the learning so i learned some stuff regarding my mid sem examination.
+
+# Resource 
+Campux 100 days of DeepLearning
+
+
+
