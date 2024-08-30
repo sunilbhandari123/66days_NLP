@@ -548,5 +548,11 @@ Today i learned about the backpropagation in Convolution Neural Network where i 
 # Resource 
 Campux 100 days of DeepLearning
 
+# Day 26(mid-sem)
+Deep Learning:
+CNN:
+Today i learned about the backpropagation in Convolution Neural Network where i had left the back proprageation of the CNN part today i learned about it after doing lots of derivative i got to know that that the derivative of loss wr to w1 is basically Convolution of (X1,derivative of loss wr to z1) and derivative of loss with the respect to b1 is sum(derivative of loss wr to derivative of z1).
 
+# Resource 
+Campux 100 days of DeepLearning
 
