@@ -556,3 +556,17 @@ Today i learned about the backpropagation in Convolution Neural Network where i 
 # Resource 
 Campux 100 days of DeepLearning.
 
+
+# Day 27
+Deep Learning:
+
+Today i implemented CNN in keras for simple dog vs cat identification also i learned about the Recurrent Neural Network why it comes into the picture ,Data for RNN,How RNN works fordward propagation ,sentiment analysis using RNN (Integer encoding and Embedding) and types of RNN .
+
+# Resource 
+Campux 100 days of DeepLearning.
+
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Cat_vs_Dog.ipynb]
+
