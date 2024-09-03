@@ -570,3 +570,11 @@ SNo|Notebook|
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/Cat_vs_Dog.ipynb]
 
+
+# Day 28
+Deep Learning:
+RNN:
+Today i learned about the backpropagation in RNN ,Problem with simple RNN  basically there are 2 problems that is problem for long term dependencies(vanishing Gradient) and stagnated traning . Long short Term Memort (LSTM) its core idea its architecture,Gate in LSTM( forget gate,input gate,output gate) its intution and working (maths) behind it .
+# Resource 
+Campux 100 days of DeepLearning.
+
