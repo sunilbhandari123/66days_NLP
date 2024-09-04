@@ -578,3 +578,11 @@ Today i learned about the backpropagation in RNN ,Problem with simple RNN  basic
 # Resource 
 Campux 100 days of DeepLearning.
 
+
+# Day 29
+Deep Learning:
+RNN:
+Today i learned about the GRU that is Gated Recurrent Unit ,why it exits ,idea behind GRU,goal of learning the GRU architecture,its architecture,reset gate in GRU,candidate hidden state in GRU, Update gate , Current gate and the comparision between LSTM and GRU.
+
+# Resource 
+Campux 100 days of DeepLearning.
