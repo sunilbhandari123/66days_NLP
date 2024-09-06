@@ -586,3 +586,11 @@ Today i learned about the GRU that is Gated Recurrent Unit ,why it exits ,idea b
 
 # Resource 
 Campux 100 days of DeepLearning.
+
+# Day 30 
+Deep Learning:
+RNN:
+Today i learned about the deep recurrent neural network its architecture,unfolding of architecture,Its notation,why and when to use it how to use it in keras,its varients ,disadvantages i also learned about the bidirectional Recurrent network, its implementation in keras,application and its drawbacks.
+
+# Resource 
+Campux 100 days of DeepLearning.
