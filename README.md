@@ -593,4 +593,4 @@ RNN:
 Today i learned about the deep recurrent neural network its architecture,unfolding of architecture,Its notation,why and when to use it how to use it in keras,its varients ,disadvantages i also learned about the bidirectional Recurrent network, its implementation in keras,application and its drawbacks.
 
 # Resource 
-Campux 100 days of DeepLearning.
+Campux 100 days of DeepLearning..
