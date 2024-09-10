@@ -594,3 +594,12 @@ Today i learned about the deep recurrent neural network its architecture,unfoldi
 
 # Resource 
 Campux 100 days of DeepLearning..
+
+
+# Day 31 
+Deep Learning:
+
+Today i learned about the history of large language model ie (LSTM to LLMS) basically we can divide it into 5 stages ie encoder decoder,Attention mechanism,Transformer,Transfer learning,LLMs i understand them in breif.I also learned about the sequence to sequence architecture its highlevel overview,its working and the improment needs to be done to enhance it output.
+
+# Resource 
+Campux 100 days of DeepLearning..
