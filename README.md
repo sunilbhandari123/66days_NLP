@@ -603,3 +603,12 @@ Today i learned about the history of large language model ie (LSTM to LLMS) basi
 
 # Resource 
 Campux 100 days of DeepLearning..
+
+
+# Day 32
+Deep Learning:
+
+Today i learned about  Attention Mechanism why it comes into the picture what is different in it from the encoder decoder architecture how to calculate the aligment score.I also learned about the Bahdanau Attention for finding the alignment score and also luong attention for finding the aligment score.
+
+# Resource 
+Campux 100 days of DeepLearning..
