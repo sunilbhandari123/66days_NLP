@@ -612,3 +612,13 @@ Today i learned about  Attention Mechanism why it comes into the picture what is
 
 # Resource 
 Campux 100 days of DeepLearning..
+
+
+# Day 33
+Deep Learning:
+
+Today i learned about the introduction to the transformers why they are needed ,self attention in Transformers(word embedding is static to resolve the issue attention mechanism comes into the picture,it is the mechanism which generates the smart contextual embedding from word embedding).I learned and understood the self attention mechanism in the transformers and its points to consider which are  (operation is parallel and there is no trainable parameters) and how to add trainable parameters in it.
+
+
+# Resource 
+Campux 100 days of DeepLearning..
