@@ -622,3 +622,13 @@ Today i learned about the introduction to the transformers why they are needed ,
 
 # Resource 
 Campux 100 days of DeepLearning..
+
+
+# Day 34
+Deep Learning:
+
+Today i learned about the scalar dot product in attention mechanism why we are dividing our attention mechanisim with root of dimensionality of k vector what is the math behind that also self attention Geometric Intution and how to visulize the self attention.
+
+
+# Resource 
+Campux 100 days of DeepLearning..
