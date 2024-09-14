@@ -632,3 +632,13 @@ Today i learned about the scalar dot product in attention mechanism why we are d
 
 # Resource 
 Campux 100 days of DeepLearning..
+
+
+# Day 35
+Deep Learning:
+
+Today i learned about the why the self attention  is called self and compared it with the Bandanau Attention and luang attention ,problem with self attention ie ( if the sentence has many perspective the self attention fails to capture all of them) also learned about the multihead attention how it overcomes the self attention it working and intution according to the paper Attention is all you need.
+
+
+# Resource 
+Campux 100 days of DeepLearning..
