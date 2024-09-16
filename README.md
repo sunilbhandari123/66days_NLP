@@ -642,3 +642,11 @@ Today i learned about the why the self attention  is called self and compared it
 
 # Resource 
 Campux 100 days of DeepLearning..
+
+# Day 36
+Deep Learning:
+
+Today i learned about the Positional encoding in the transformers ,need of positional encoding is that self attention doesnot understands the order of word in which they appears and i have learned why others ways like discrete numbering doesnot works and sine, cose wave works,how the values of the positional encoding vectors is determined
+
+# Resource 
+Campux 100 days of DeepLearning..
