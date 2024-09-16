@@ -646,7 +646,7 @@ Campux 100 days of DeepLearning..
 # Day 36
 Deep Learning:
 
-Today i learned about the Positional encoding in the transformers ,need of positional encoding is that self attention doesnot understands the order of word in which they appears and i have learned why others ways like discrete numbering doesnot works and sine, cose wave works,how the values of the positional encoding vectors is determined
+Today i learned about the Positional encoding in the transformers ,need of positional encoding is that self attention doesnot understands the order of word in which they appears and i have learned why others ways like discrete numbering doesnot works and sine, cose wave works,how the values of the positional encoding vectors is determined.i have learned how the positional encoding is applied in the paper attention is all you need and its formula.
 
 # Resource 
 Campux 100 days of DeepLearning..
