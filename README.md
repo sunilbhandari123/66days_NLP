@@ -650,3 +650,13 @@ Today i learned about the Positional encoding in the transformers ,need of posit
 
 # Resource 
 Campux 100 days of DeepLearning..
+
+
+
+# Day 37
+Deep Learning:
+
+Today i learned about the  layer normalization in transformers,why dont we use batch normalization in transformer it is because batch normalization cannot work properly in sequential data due to the padding vectors.
+
+# Resource 
+Campux 100 days of DeepLearning..
