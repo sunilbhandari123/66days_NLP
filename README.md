@@ -656,7 +656,7 @@ Campux 100 days of DeepLearning..
 # Day 37
 Deep Learning:
 
-Today i learned about the  layer normalization in transformers,why dont we use batch normalization in transformer it is because batch normalization cannot work properly in sequential data due to the padding vectors.
+Today i learned about the  layer normalization in transformers,why dont we use batch normalization in transformer it is because batch normalization cannot work properly in sequential data due to the padding vectors.I learned and tried to understand the the architecture of the transformer (encoder only) basically the transformer is divided into 2 parts ie encoder and decoder and each encoder and decoder is divided into the 6 identical encoder and decoder .each encoder and decoder consist of feed fordward NN and self attention NN and it consist of the architecture of the encoder in the transformer.
 
 # Resource 
 Campux 100 days of DeepLearning..
