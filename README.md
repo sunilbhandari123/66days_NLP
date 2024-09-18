@@ -664,7 +664,7 @@ Campux 100 days of DeepLearning..
 # Day 38
 Deep Learning:
 
-Today i again learned about the encoder architecture in the transformer  with some question unsolved ie why we use residual connections,why we use feedfordward network(may be to capture nonlinearity of the data),also learned ablut the masked self attention.
+Today i again learned about the encoder architecture in the transformer  with some question unsolved ie why we use residual connections,why we use feedfordward network(may be to capture nonlinearity of the data),also learned ablut the masked self attention.Also while learning i came across the intresting topic cross attention in transformer and it uses.And finally i also learned about the Decoder architecture of the transformers
 
 # Resource 
 Campux 100 days of DeepLearning..
