@@ -668,3 +668,12 @@ Today i again learned about the encoder architecture in the transformer  with so
 
 # Resource 
 Campux 100 days of DeepLearning..
+
+
+# Day 39
+Deep Learning:
+
+Today i  learned about the transformer inference. Decoder in Inference time works as autoregressive way takes token 1 by 1 and in 1 time at 1 time steps gives one time steps as a output.In every next time step we increase token and we do masking in inference all other are same as transformer during the training.
+
+# Resource 
+Campux 100 days of DeepLearning..
