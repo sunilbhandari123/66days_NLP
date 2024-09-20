@@ -677,3 +677,16 @@ Today i  learned about the transformer inference. Decoder in Inference time work
 
 # Resource 
 Campux 100 days of DeepLearning..
+
+
+# Day 39
+Deep Learning:
+
+Today i  learned about how to use hugging face transformer library,using huggingface transformer pretrained model where i performed the task like sentimental analysis,Question Answering,NER Task, Summarization,Text Generation.
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/hugging_face_pretrained_model_for_transformer%20(1).ipynb]
+
+# Resource 
+Pradip Nichite
