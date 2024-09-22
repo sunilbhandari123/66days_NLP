@@ -680,13 +680,25 @@ Campux 100 days of DeepLearning..
 
 
 # Day 39
-Deep Learning:
+Hugging Face:
 
 Today i  learned about how to use hugging face transformer library,using huggingface transformer pretrained model where i performed the task like sentimental analysis,Question Answering,NER Task, Summarization,Text Generation.
 
 SNo|Notebook|
 |-|-|
 |1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/hugging_face_pretrained_model_for_transformer%20(1).ipynb]
+
+# Resource 
+Pradip Nichite
+
+# Day 40
+Hugging Face:
+
+Today i  learned about how to use hugging face transformer library in pytorch which gives us flexibility to decode input and output according to our wish where i learned about the using model without head how to use autoclass for any model,how to use model plus classification head ,preprocessing the model,postprocessing the model ,how to do prediction  in a GPU , how to do prediction on a multiple example.
+
+SNo|Notebook|
+|-|-|
+|1|[https://github.com/sunilbhandari123/66days_NLP/blob/main/HuggingFace_Transformer_in_pytorch.ipynb]
 
 # Resource 
 Pradip Nichite
