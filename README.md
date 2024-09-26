@@ -8,6 +8,8 @@ SNo|Blog 1 |Blog 2|
 |1|[https://blog.futuresmart.ai/nlp-roadmap-2023-step-by-step-guide]|[https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff]
 
 # Projects
+
+SNo|Name |NoteBook |
 |-|-|-|
 |1|[Sentiment Analysis Using Transformer (Hugging Face)]|[https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff]
 
