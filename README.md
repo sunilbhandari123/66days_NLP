@@ -11,7 +11,7 @@ SNo|Blog 1 |Blog 2|
 
 SNo|Name |NoteBook |
 |-|-|-|
-|1|[Sentiment Analysis Using Transformer (Hugging Face)]|[https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff]
+|1|[Sentiment Analysis Using Transformer (Hugging Face)]|[]
 
 
   
